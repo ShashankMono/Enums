@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\bin\Debug\net8.0\EnumsAssignment.exe
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\bin\Debug\net8.0\EnumsAssignment.deps.json
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\bin\Debug\net8.0\EnumsAssignment.runtimeconfig.json
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\bin\Debug\net8.0\EnumsAssignment.dll
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\bin\Debug\net8.0\EnumsAssignment.pdb
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.dll
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\refint\EnumsAssignment.dll
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.pdb
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\EnumsAssignment.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\Enums\EnumsAssignment\obj\Debug\net8.0\ref\EnumsAssignment.dll
